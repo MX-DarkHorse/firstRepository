@@ -1,1 +1,5 @@
-create a neew branch is quickin.
+<<<<<<< HEAD
+create a neew branch is quickin and not.
+=======
+create a neew branch is quicking not.
+>>>>>>> feature1
